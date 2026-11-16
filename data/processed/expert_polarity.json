@@ -1,0 +1,2305 @@
+{
+ "N": 66,
+ "K": 9,
+ "lam": 2.0,
+ "pos_roots": [
+  "relevan",
+  "significativ",
+  "fundamental",
+  "necesari",
+  "important",
+  "avanc",
+  "fortalec",
+  "garantiz",
+  "derecho",
+  "inclus",
+  "diversidad",
+  "igualdad",
+  "particip",
+  "mejor",
+  "potencial",
+  "contribu",
+  "promov",
+  "sosten",
+  "reconoc",
+  "legitim",
+  "vital",
+  "riqueza",
+  "oportun",
+  "adecuad",
+  "eficaz",
+  "logro",
+  "consolid",
+  "ampli",
+  "democrat",
+  "preserv",
+  "valor",
+  "respeto",
+  "equidad",
+  "justici",
+  "acces",
+  "libertad",
+  "identidad",
+  "patrimonio",
+  "memoria",
+  "empoder",
+  "transform",
+  "innov",
+  "cooperaci",
+  "articulaci",
+  "compromis",
+  "progres",
+  "bienestar",
+  "solidar",
+  "autonom",
+  "dignidad",
+  "visibiliz",
+  "recuper",
+  "rescate",
+  "vigencia",
+  "dialogo",
+  "reconocimiento"
+ ],
+ "neg_roots": [
+  "deficit",
+  "ausenci",
+  "falta",
+  "carenci",
+  "desigual",
+  "exclu",
+  "discrimin",
+  "crisis",
+  "problem",
+  "limitaci",
+  "obstacul",
+  "dificultad",
+  "precari",
+  "vulnerab",
+  "margin",
+  "subaltern",
+  "hegemon",
+  "colonial",
+  "imposici",
+  "silencio",
+  "invisibil",
+  "brech",
+  "conflict",
+  "tensi",
+  "critic",
+  "cuestion",
+  "denunci",
+  "riesg",
+  "amenaz",
+  "perdid",
+  "declin",
+  "escase",
+  "restricci",
+  "segreg",
+  "estigmat",
+  "racismo",
+  "estereotip",
+  "dominaci",
+  "subordinaci",
+  "negaci",
+  "olvido",
+  "abandon",
+  "fractur",
+  "deterior",
+  "retroces",
+  "desprotecc",
+  "precariz",
+  "desmantel",
+  "recort",
+  "desfinanci",
+  "inequidad",
+  "asimetr",
+  "jerarquiz",
+  "homogeneiz",
+  "folkloriz",
+  "exotiz",
+  "subestima"
+ ],
+ "hit": 51,
+ "docs": [
+  {
+   "no": 1,
+   "title": "Gramática escolar y políticas lingüísticas en la Argentina: un análisis de la Gramática de la lengua castellana (1893) de Baldmar Dobranich y Ricardo Monner Sans",
+   "venue": "RAHL: Revista argentina de historiografía lingüística",
+   "year": 2011,
+   "period": "2011-2015",
+   "topic": 7,
+   "p": 0.704,
+   "pos": 2,
+   "neg": 2,
+   "pol": 0.0,
+   "pos_hits": [
+    "relevan",
+    "contribu"
+   ],
+   "neg_hits": [
+    "cuestion"
+   ]
+  },
+  {
+   "no": 2,
+   "title": "La enseñanza de la lengua escolar como proyecto de identidad nacional: el contexto socio educativo",
+   "venue": "RAHL: Revista argentina de historiografía lingüística",
+   "year": 2012,
+   "period": "2011-2015",
+   "topic": 7,
+   "p": 0.297,
+   "pos": 2,
+   "neg": 0,
+   "pol": 0.5,
+   "pos_hits": [
+    "identidad"
+   ],
+   "neg_hits": []
+  },
+  {
+   "no": 3,
+   "title": "Algo de política lingüística en José Hernández",
+   "venue": "Anclajes",
+   "year": 2025,
+   "period": "2021-2025",
+   "topic": 2,
+   "p": 0.693,
+   "pos": 3,
+   "neg": 5,
+   "pol": -0.2,
+   "pos_hits": [
+    "fundamental",
+    "contribu"
+   ],
+   "neg_hits": [
+    "hegemon",
+    "conflict"
+   ]
+  },
+  {
+   "no": 4,
+   "title": "Lectura y escritura en las escuelas chinas de la ciudad de Buenos Aires: Entre las prácticas y el recuerdo",
+   "venue": "Traslaciones: Revista Latinoamericana de Lectura y Escritura",
+   "year": 2025,
+   "period": "2021-2025",
+   "topic": 2,
+   "p": 0.508,
+   "pos": 5,
+   "neg": 0,
+   "pol": 0.7143,
+   "pos_hits": [
+    "relevan",
+    "important"
+   ],
+   "neg_hits": []
+  },
+  {
+   "no": 5,
+   "title": "Travesías en umbrales escolares: Experiencias de bi-alfabetización en la comunidad Mbyá Guaraní Yasy Porã (Misiones – Argentina)",
+   "venue": "Traslaciones: Revista Latinoamericana de Lectura y Escritura",
+   "year": 2025,
+   "period": "2021-2025",
+   "topic": 1,
+   "p": 0.557,
+   "pos": 0,
+   "neg": 0,
+   "pol": 0.0,
+   "pos_hits": [],
+   "neg_hits": []
+  },
+  {
+   "no": 6,
+   "title": "La lengua como frontera de ciudadanía: colonialidad, educación e ideologías raciolingüísticas en la formación del Estado argentino",
+   "venue": "Entramados: educación y sociedad",
+   "year": 2026,
+   "period": "2026-2030",
+   "topic": 4,
+   "p": 0.323,
+   "pos": 8,
+   "neg": 4,
+   "pol": 0.2857,
+   "pos_hits": [
+    "necesari",
+    "derecho",
+    "diversidad",
+    "consolid",
+    "democrat",
+    "justici",
+    "solidar"
+   ],
+   "neg_hits": [
+    "exclu",
+    "colonial",
+    "amenaz",
+    "jerarquiz"
+   ]
+  },
+  {
+   "no": 7,
+   "title": "TIC, políticas lingüísticas y reproducción social en la educación superior argentina: lecciones del Programa de Formación y Certificación en Lenguas Extranjeras",
+   "venue": "Revista Argentina de Educación Superior (RAES)",
+   "year": 2026,
+   "period": "2026-2030",
+   "topic": 3,
+   "p": 0.82,
+   "pos": 8,
+   "neg": 2,
+   "pol": 0.5,
+   "pos_hits": [
+    "inclus",
+    "igualdad",
+    "mejor",
+    "ampli",
+    "acces"
+   ],
+   "neg_hits": [
+    "desigual"
+   ]
+  },
+  {
+   "no": 8,
+   "title": "Política lingüística y micropolítica institucional en instituciones de nivel superior argentinas: sentidos, tensiones y apropiaciones a partir de las experiencias con el Programa de Formación y Certificación en Lenguas Extranjeras (PFCLE)",
+   "venue": "Revista Argentina de Educación Superior (RAES)",
+   "year": 2026,
+   "period": "2026-2030",
+   "topic": 3,
+   "p": 0.927,
+   "pos": 0,
+   "neg": 2,
+   "pol": -0.5,
+   "pos_hits": [],
+   "neg_hits": [
+    "tensi"
+   ]
+  },
+  {
+   "no": 9,
+   "title": "Rudolf Grossmann. El patrimonio lingüístico extranjero en el español del Río de la Plata",
+   "venue": "RAHL: Revista argentina de historiografía lingüística",
+   "year": 2009,
+   "period": "2006-2010",
+   "topic": 8,
+   "p": 0.893,
+   "pos": 2,
+   "neg": 0,
+   "pol": 0.5,
+   "pos_hits": [
+    "patrimonio"
+   ],
+   "neg_hits": []
+  },
+  {
+   "no": 10,
+   "title": "Lingüística misionera en Pampa y Patagonia (1860-1930)",
+   "venue": "RAHL: Revista argentina de historiografía lingüística",
+   "year": 2010,
+   "period": "2006-2010",
+   "topic": 7,
+   "p": 0.463,
+   "pos": 0,
+   "neg": 0,
+   "pol": 0.0,
+   "pos_hits": [],
+   "neg_hits": []
+  },
+  {
+   "no": 11,
+   "title": "Política y planificación lingüística en los primeros 10 años del Mercosur: el portugués en Argentina",
+   "venue": "Signos ELE: Revista de Español como Lengua Extranjera",
+   "year": 2012,
+   "period": "2011-2015",
+   "topic": 4,
+   "p": 0.281,
+   "pos": 2,
+   "neg": 0,
+   "pol": 0.5,
+   "pos_hits": [
+    "inclus"
+   ],
+   "neg_hits": []
+  },
+  {
+   "no": 12,
+   "title": "Prácticas lexicográficas del siglo XIX en territorio uruguayo: de la nominación al registro de piezas de museo",
+   "venue": "RAHL: Revista argentina de historiografía lingüística",
+   "year": 2013,
+   "period": "2011-2015",
+   "topic": 9,
+   "p": 0.354,
+   "pos": 4,
+   "neg": 0,
+   "pol": 0.6667,
+   "pos_hits": [
+    "contribu",
+    "identidad",
+    "recuper"
+   ],
+   "neg_hits": []
+  },
+  {
+   "no": 13,
+   "title": "Observación del tratamiento de las funciones comunicativas de infinitivos simples y de perífrasis verbales de infinitivo en manuales españoles para su aplicación en la enseñanza de e/le en la región NEA de Argentina",
+   "venue": "Signos ELE: Revista de Español como Lengua Extranjera",
+   "year": 2014,
+   "period": "2011-2015",
+   "topic": 6,
+   "p": 0.861,
+   "pos": 2,
+   "neg": 0,
+   "pol": 0.5,
+   "pos_hits": [
+    "fundamental",
+    "contribu"
+   ],
+   "neg_hits": []
+  },
+  {
+   "no": 14,
+   "title": "Lengua e inmigración en el sudoeste bonaerense: funciones conversacionales de la alternancia de lenguas",
+   "venue": "Anclajes",
+   "year": 2002,
+   "period": "2001-2005",
+   "topic": 8,
+   "p": 0.643,
+   "pos": 2,
+   "neg": 0,
+   "pol": 0.5,
+   "pos_hits": [
+    "fundamental",
+    "patrimonio"
+   ],
+   "neg_hits": []
+  },
+  {
+   "no": 15,
+   "title": "Henri Boyer y Hedy Penner (directores), El Paraguay bilingüe",
+   "venue": "Signo y Seña",
+   "year": 2016,
+   "period": "2016-2020",
+   "topic": 2,
+   "p": 0.698,
+   "pos": 0,
+   "neg": 0,
+   "pol": 0.0,
+   "pos_hits": [],
+   "neg_hits": []
+  },
+  {
+   "no": 16,
+   "title": "La investigación en Español como Lengua Segunda y Extranjera (ELSE) en Argentina y el Mercosur: Introducción",
+   "venue": "Signo y Seña",
+   "year": 2012,
+   "period": "2011-2015",
+   "topic": 6,
+   "p": 0.737,
+   "pos": 0,
+   "neg": 0,
+   "pol": 0.0,
+   "pos_hits": [],
+   "neg_hits": []
+  },
+  {
+   "no": 17,
+   "title": "La perífrasis [estar + gerundio/estar + gerúndio] en Pretérito Perfecto Simple/Pretérito Perfeito del modo Indicativo en el Español rioplatense (ER) y en el Portugués brasileño (PB)",
+   "venue": "Signos ELE: Revista de Español como Lengua Extranjera",
+   "year": 2015,
+   "period": "2011-2015",
+   "topic": 6,
+   "p": 0.715,
+   "pos": 1,
+   "neg": 0,
+   "pol": 0.3333,
+   "pos_hits": [
+    "valor"
+   ],
+   "neg_hits": []
+  },
+  {
+   "no": 18,
+   "title": "“Hablan poco guaraní, saben mucho”: Una investigación en colaboración con niños y maestros en un contexto bilingüe de Corrientes, Argentina",
+   "venue": "Signo y Seña",
+   "year": 2016,
+   "period": "2016-2020",
+   "topic": 5,
+   "p": 0.482,
+   "pos": 1,
+   "neg": 0,
+   "pol": 0.3333,
+   "pos_hits": [
+    "particip"
+   ],
+   "neg_hits": []
+  },
+  {
+   "no": 19,
+   "title": "Cruces de frontera y postmonolingüismo en la obra de Liliana Ancalao",
+   "venue": "Gramma",
+   "year": 2016,
+   "period": "2016-2020",
+   "topic": 2,
+   "p": 0.396,
+   "pos": 2,
+   "neg": 0,
+   "pol": 0.5,
+   "pos_hits": [
+    "identidad",
+    "recuper"
+   ],
+   "neg_hits": []
+  },
+  {
+   "no": 20,
+   "title": "Reflexiones sobre la figura del docente en contextos interculturales en Chaco",
+   "venue": "Educación, Lenguaje y Sociedad",
+   "year": 2017,
+   "period": "2016-2020",
+   "topic": 1,
+   "p": 0.774,
+   "pos": 1,
+   "neg": 0,
+   "pol": 0.3333,
+   "pos_hits": [
+    "potencial"
+   ],
+   "neg_hits": []
+  },
+  {
+   "no": 21,
+   "title": "La enseñanza del castellano a vascoparlantes en Argentina: la \"Gramera berria, ikasteko eskualdunec mintzatzen espainoles\" (1850) de Francisco Jáuregui",
+   "venue": "Signo y Seña",
+   "year": 2018,
+   "period": "2016-2020",
+   "topic": 7,
+   "p": 0.487,
+   "pos": 0,
+   "neg": 0,
+   "pol": 0.0,
+   "pos_hits": [],
+   "neg_hits": []
+  },
+  {
+   "no": 22,
+   "title": "Contactos lingüísticos en Trelew. El bilingüismo español-galés",
+   "venue": "Anclajes",
+   "year": 1999,
+   "period": "1996-2000",
+   "topic": 8,
+   "p": 0.772,
+   "pos": 0,
+   "neg": 0,
+   "pol": 0.0,
+   "pos_hits": [],
+   "neg_hits": []
+  },
+  {
+   "no": 23,
+   "title": "Políticas educativas, enseñanza de la lengua y diversidad lingüística",
+   "venue": "Pilquen - Sección Psicopedagogía",
+   "year": 2014,
+   "period": "2011-2015",
+   "topic": 9,
+   "p": 0.45,
+   "pos": 6,
+   "neg": 1,
+   "pol": 0.5556,
+   "pos_hits": [
+    "diversidad",
+    "promov"
+   ],
+   "neg_hits": [
+    "problem"
+   ]
+  },
+  {
+   "no": 24,
+   "title": "Estudiantes universitarios sordos hablantes de lengua de señas argentina y español escrito",
+   "venue": "Traslaciones: Revista Latinoamericana de Lectura y Escritura",
+   "year": 2018,
+   "period": "2016-2020",
+   "topic": 8,
+   "p": 0.664,
+   "pos": 1,
+   "neg": 0,
+   "pol": 0.3333,
+   "pos_hits": [
+    "adecuad"
+   ],
+   "neg_hits": []
+  },
+  {
+   "no": 25,
+   "title": "Alfabetización de la comunidad sorda: la mirada de los protagonistas",
+   "venue": "Traslaciones: Revista Latinoamericana de Lectura y Escritura",
+   "year": 2018,
+   "period": "2016-2020",
+   "topic": 8,
+   "p": 0.729,
+   "pos": 0,
+   "neg": 0,
+   "pol": 0.0,
+   "pos_hits": [],
+   "neg_hits": []
+  },
+  {
+   "no": 26,
+   "title": "Educación intercultural bilingüe bimodal y formación lingüística: reflexiones acerca de sus avances y perspectivas",
+   "venue": "Traslaciones: Revista Latinoamericana de Lectura y Escritura",
+   "year": 2018,
+   "period": "2016-2020",
+   "topic": 1,
+   "p": 0.477,
+   "pos": 10,
+   "neg": 0,
+   "pol": 0.8333,
+   "pos_hits": [
+    "necesari",
+    "avanc",
+    "fortalec",
+    "mejor",
+    "contribu",
+    "logro",
+    "ampli"
+   ],
+   "neg_hits": []
+  },
+  {
+   "no": 27,
+   "title": "Notas sobre la neutralidad lingüística en los medios: los Manuales de estilo de Educar (2012-2015)",
+   "venue": "Anclajes",
+   "year": 2019,
+   "period": "2016-2020",
+   "topic": 7,
+   "p": 0.348,
+   "pos": 0,
+   "neg": 0,
+   "pol": 0.0,
+   "pos_hits": [],
+   "neg_hits": []
+  },
+  {
+   "no": 28,
+   "title": "Bajo la Mirada de Cangjie: Lengua y Escritura China en la Ciudad de Buenos Aires",
+   "venue": "Signo y Seña",
+   "year": 2019,
+   "period": "2016-2020",
+   "topic": 2,
+   "p": 0.684,
+   "pos": 0,
+   "neg": 1,
+   "pol": -0.3333,
+   "pos_hits": [],
+   "neg_hits": [
+    "tensi"
+   ]
+  },
+  {
+   "no": 29,
+   "title": "Hacia una enseñanza no prescriptiva de la lengua estándar: herramientas para la valoración del contacto quechua-español en la Ciudad de Buenos Aires",
+   "venue": "Educación, Lenguaje y Sociedad",
+   "year": 2019,
+   "period": "2016-2020",
+   "topic": 9,
+   "p": 0.62,
+   "pos": 7,
+   "neg": 2,
+   "pol": 0.4545,
+   "pos_hits": [
+    "diversidad",
+    "valor",
+    "identidad"
+   ],
+   "neg_hits": [
+    "cuestion",
+    "homogeneiz"
+   ]
+  },
+  {
+   "no": 30,
+   "title": "Intercambio epistolar entre Ricardo Rojas y Ramón Menéndez Pidal: fragmentos para la construcción de una hispanidad post-imperial",
+   "venue": "Anclajes",
+   "year": 2020,
+   "period": "2016-2020",
+   "topic": 2,
+   "p": 0.515,
+   "pos": 1,
+   "neg": 1,
+   "pol": 0.0,
+   "pos_hits": [
+    "progres"
+   ],
+   "neg_hits": [
+    "dificultad"
+   ]
+  },
+  {
+   "no": 31,
+   "title": "La enseñanza del euskera en Argentina durante el “Renacimiento Vasco”: el Curso primero del idioma basko en dialecto guipuzkuano (1912) de Soloeta-Dima",
+   "venue": "RAHL: Revista argentina de historiografía lingüística",
+   "year": 2014,
+   "period": "2011-2015",
+   "topic": 4,
+   "p": 0.514,
+   "pos": 0,
+   "neg": 0,
+   "pol": 0.0,
+   "pos_hits": [],
+   "neg_hits": []
+  },
+  {
+   "no": 32,
+   "title": "La enseñanza del castellano en la Argentina de finales del XIX y principios del XX: Textos recomendados y actitudes en torno a la lengua",
+   "venue": "RAHL: Revista argentina de historiografía lingüística",
+   "year": 2017,
+   "period": "2016-2020",
+   "topic": 7,
+   "p": 0.424,
+   "pos": 3,
+   "neg": 1,
+   "pol": 0.3333,
+   "pos_hits": [
+    "relevan"
+   ],
+   "neg_hits": [
+    "cuestion"
+   ]
+  },
+  {
+   "no": 33,
+   "title": "La gestión de Lehmann-Nitsche en el Instituto de Filología de la Universidad de Buenos Aires (1926)",
+   "venue": "RAHL: Revista argentina de historiografía lingüística",
+   "year": 2017,
+   "period": "2016-2020",
+   "topic": 2,
+   "p": 0.7,
+   "pos": 2,
+   "neg": 0,
+   "pol": 0.5,
+   "pos_hits": [
+    "important",
+    "contribu"
+   ],
+   "neg_hits": []
+  },
+  {
+   "no": 34,
+   "title": "Los diálogos de la serie de Minsheu como instrumentos de aprendizaje pragmático de la lengua española",
+   "venue": "RAHL: Revista argentina de historiografía lingüística",
+   "year": 2018,
+   "period": "2016-2020",
+   "topic": 7,
+   "p": 0.687,
+   "pos": 3,
+   "neg": 0,
+   "pol": 0.6,
+   "pos_hits": [
+    "dialogo"
+   ],
+   "neg_hits": []
+  },
+  {
+   "no": 35,
+   "title": "Cenário da língua portuguesa no Mercosul: o caso da Argentina, do Paraguai e do Uruguai",
+   "venue": "Revista Latinoamericana de Educación Comparada (RELEC)",
+   "year": 2020,
+   "period": "2016-2020",
+   "topic": 2,
+   "p": 0.383,
+   "pos": 2,
+   "neg": 0,
+   "pol": 0.5,
+   "pos_hits": [
+    "potencial"
+   ],
+   "neg_hits": []
+  },
+  {
+   "no": 36,
+   "title": "Crítica del lenguaje y emancipación política en Contorno (1953-1959)",
+   "venue": "Cuadernos del CILHA",
+   "year": 2017,
+   "period": "2016-2020",
+   "topic": 2,
+   "p": 0.328,
+   "pos": 0,
+   "neg": 1,
+   "pol": -0.3333,
+   "pos_hits": [],
+   "neg_hits": [
+    "critic"
+   ]
+  },
+  {
+   "no": 37,
+   "title": "Lenguas extranjeras y sistema educativo argentino: un recorrido histórico por las políticas lingüísticas del Estado en materia educativa (1904-1941)",
+   "venue": "RAHL: Revista argentina de historiografía lingüística",
+   "year": 2021,
+   "period": "2021-2025",
+   "topic": 2,
+   "p": 0.496,
+   "pos": 1,
+   "neg": 1,
+   "pol": 0.0,
+   "pos_hits": [
+    "inclus"
+   ],
+   "neg_hits": [
+    "retroces"
+   ]
+  },
+  {
+   "no": 38,
+   "title": "Internacionalización, política lingüística y gestión de redes",
+   "venue": "Integración y Conocimiento",
+   "year": 2016,
+   "period": "2016-2020",
+   "topic": 3,
+   "p": 0.786,
+   "pos": 4,
+   "neg": 0,
+   "pol": 0.6667,
+   "pos_hits": [
+    "particip",
+    "oportun",
+    "articulaci",
+    "progres"
+   ],
+   "neg_hits": []
+  },
+  {
+   "no": 39,
+   "title": "Reseña de Articulación lingüística y cultural Mercosur 2: gestión institucional del Español Lengua Segunda y Extranjera en la cooperación con Brasil",
+   "venue": "Integración y Conocimiento",
+   "year": 2016,
+   "period": "2016-2020",
+   "topic": 3,
+   "p": 0.749,
+   "pos": 5,
+   "neg": 0,
+   "pol": 0.7143,
+   "pos_hits": [
+    "oportun",
+    "cooperaci",
+    "articulaci"
+   ],
+   "neg_hits": []
+  },
+  {
+   "no": 40,
+   "title": "Literatura e identidad en clase de lengua española",
+   "venue": "Integración y Conocimiento",
+   "year": 2015,
+   "period": "2011-2015",
+   "topic": 7,
+   "p": 0.554,
+   "pos": 4,
+   "neg": 0,
+   "pol": 0.6667,
+   "pos_hits": [
+    "identidad"
+   ],
+   "neg_hits": []
+  },
+  {
+   "no": 41,
+   "title": "Articulación lingüístico-cultural para una cooperación interinstitucional solidaria. Proyecto Red NEIES: Integración Regional para ELE en el contexto MERCOSUR",
+   "venue": "Integración y Conocimiento",
+   "year": 2014,
+   "period": "2011-2015",
+   "topic": 3,
+   "p": 0.871,
+   "pos": 8,
+   "neg": 0,
+   "pol": 0.8,
+   "pos_hits": [
+    "particip",
+    "cooperaci",
+    "articulaci",
+    "solidar"
+   ],
+   "neg_hits": []
+  },
+  {
+   "no": 42,
+   "title": "Un manual de conversación para hablar en ‘argentino’ (1910): el método Berlitz y la lengua nacional",
+   "venue": "RAHL: Revista argentina de historiografía lingüística",
+   "year": 2022,
+   "period": "2021-2025",
+   "topic": 4,
+   "p": 0.309,
+   "pos": 0,
+   "neg": 0,
+   "pol": 0.0,
+   "pos_hits": [],
+   "neg_hits": []
+  },
+  {
+   "no": 43,
+   "title": "Función social y valor epistémico de la comprensión lectora en lengua extranjera - inglés - en el ámbito académico universitario social",
+   "venue": "Argonautas",
+   "year": 2019,
+   "period": "2016-2020",
+   "topic": 4,
+   "p": 0.473,
+   "pos": 4,
+   "neg": 0,
+   "pol": 0.6667,
+   "pos_hits": [
+    "contribu",
+    "valor"
+   ],
+   "neg_hits": []
+  },
+  {
+   "no": 44,
+   "title": "El enfoque intercultural en actividades de lectura presentes en libros de texto editados para la enseñanza del inglés a adolescentes (nivel a1)",
+   "venue": "Argonautas",
+   "year": 2019,
+   "period": "2016-2020",
+   "topic": 6,
+   "p": 0.529,
+   "pos": 0,
+   "neg": 0,
+   "pol": 0.0,
+   "pos_hits": [],
+   "neg_hits": []
+  },
+  {
+   "no": 45,
+   "title": "La práctica docente en la enseñanza de la lectocomprensión en la lengua extranjera inglés desde el abordaje del modelo complejo",
+   "venue": "Argonautas",
+   "year": 2020,
+   "period": "2016-2020",
+   "topic": 4,
+   "p": 0.504,
+   "pos": 0,
+   "neg": 0,
+   "pol": 0.0,
+   "pos_hits": [],
+   "neg_hits": []
+  },
+  {
+   "no": 46,
+   "title": "La Quichua en mi escuela. Intervención intercultural en el Nivel Secundario",
+   "venue": "Masquedós: Revista de Extensión Universitaria",
+   "year": 2021,
+   "period": "2021-2025",
+   "topic": 1,
+   "p": 0.493,
+   "pos": 0,
+   "neg": 3,
+   "pol": -0.6,
+   "pos_hits": [],
+   "neg_hits": [
+    "tensi"
+   ]
+  },
+  {
+   "no": 47,
+   "title": "Entrevista a Ángela Di Tullio",
+   "venue": "Quintú Quimün: revista de lingüística",
+   "year": 2017,
+   "period": "2016-2020",
+   "topic": 7,
+   "p": 0.481,
+   "pos": 1,
+   "neg": 2,
+   "pol": -0.2,
+   "pos_hits": [
+    "particip"
+   ],
+   "neg_hits": [
+    "problem",
+    "cuestion"
+   ]
+  },
+  {
+   "no": 48,
+   "title": "Entrevista a Sandra Cvejanov",
+   "venue": "Quintú Quimün: revista de lingüística",
+   "year": 2018,
+   "period": "2016-2020",
+   "topic": 5,
+   "p": 0.23,
+   "pos": 3,
+   "neg": 1,
+   "pol": 0.3333,
+   "pos_hits": [
+    "reconoc",
+    "eficaz",
+    "reconocimiento"
+   ],
+   "neg_hits": [
+    "tensi"
+   ]
+  },
+  {
+   "no": 49,
+   "title": "Introducción al Dossier \"Habitar la interlengua: escenarios de la enseñanza y la investigación del español como lengua segunda y extranjera en Argentina\"",
+   "venue": "Quintú Quimün: revista de lingüística",
+   "year": 2021,
+   "period": "2021-2025",
+   "topic": 6,
+   "p": 0.545,
+   "pos": 0,
+   "neg": 0,
+   "pol": 0.0,
+   "pos_hits": [],
+   "neg_hits": []
+  },
+  {
+   "no": 50,
+   "title": "Adquisición de segundas lenguas en contextos no formales en Argentina: el español como L2 de hablantes de L1 guaraní y toba",
+   "venue": "Quintú Quimün: revista de lingüística",
+   "year": 2021,
+   "period": "2021-2025",
+   "topic": 9,
+   "p": 0.435,
+   "pos": 2,
+   "neg": 0,
+   "pol": 0.5,
+   "pos_hits": [
+    "contribu"
+   ],
+   "neg_hits": []
+  },
+  {
+   "no": 51,
+   "title": "La construcción interaccional de espacios de enseñanza-aprendizaje del español/castellano como L2 en contexto indígena",
+   "venue": "Quintú Quimün: revista de lingüística",
+   "year": 2021,
+   "period": "2021-2025",
+   "topic": 9,
+   "p": 0.421,
+   "pos": 4,
+   "neg": 0,
+   "pol": 0.6667,
+   "pos_hits": [
+    "significativ",
+    "necesari",
+    "autonom"
+   ],
+   "neg_hits": []
+  },
+  {
+   "no": 52,
+   "title": "Análisis de ideologías lingüísticas en torno al portugués y su dimensión regional en discursos de docentes de portugués de la escuela secundaria argentina",
+   "venue": "Quintú Quimün: revista de lingüística",
+   "year": 2023,
+   "period": "2021-2025",
+   "topic": 4,
+   "p": 0.701,
+   "pos": 1,
+   "neg": 0,
+   "pol": 0.3333,
+   "pos_hits": [
+    "valor"
+   ],
+   "neg_hits": []
+  },
+  {
+   "no": 53,
+   "title": "La variación en las clases de gramática: Español del Nordeste argentino (NEA)",
+   "venue": "Traslaciones: Revista Latinoamericana de Lectura y Escritura",
+   "year": 2023,
+   "period": "2021-2025",
+   "topic": 9,
+   "p": 0.468,
+   "pos": 4,
+   "neg": 0,
+   "pol": 0.6667,
+   "pos_hits": [
+    "diversidad",
+    "contribu",
+    "promov"
+   ],
+   "neg_hits": []
+  },
+  {
+   "no": 54,
+   "title": "El currículum en espiral en la enseñanza de lenguas adicionales: una propuesta de implementación en cursos de inglés con propósitos específicos en el Grado Universitario de Ingeniería",
+   "venue": "Traslaciones: Revista Latinoamericana de Lectura y Escritura",
+   "year": 2023,
+   "period": "2021-2025",
+   "topic": 4,
+   "p": 0.486,
+   "pos": 2,
+   "neg": 0,
+   "pol": 0.5,
+   "pos_hits": [
+    "contribu"
+   ],
+   "neg_hits": []
+  },
+  {
+   "no": 55,
+   "title": "Enseñar y aprender en contextos de diversidad cultural: una mirada desde la etnopragmática al problema de la variación lingüística",
+   "venue": "Traslaciones: Revista Latinoamericana de Lectura y Escritura",
+   "year": 2021,
+   "period": "2021-2025",
+   "topic": 9,
+   "p": 0.466,
+   "pos": 3,
+   "neg": 6,
+   "pol": -0.2727,
+   "pos_hits": [
+    "diversidad"
+   ],
+   "neg_hits": [
+    "problem"
+   ]
+  },
+  {
+   "no": 56,
+   "title": "Contacto lingüístico en la educación argentina en tiempos de globalización: ¿supervivencia o extinción?",
+   "venue": "Traslaciones: Revista Latinoamericana de Lectura y Escritura",
+   "year": 2024,
+   "period": "2021-2025",
+   "topic": 9,
+   "p": 0.37,
+   "pos": 5,
+   "neg": 5,
+   "pol": 0.0,
+   "pos_hits": [
+    "derecho",
+    "reconoc",
+    "reconocimiento"
+   ],
+   "neg_hits": [
+    "conflict",
+    "tensi",
+    "cuestion"
+   ]
+  },
+  {
+   "no": 57,
+   "title": "Hacia una traducción de la lengua de señas argentina",
+   "venue": "Signo y Seña",
+   "year": 2024,
+   "period": "2021-2025",
+   "topic": 5,
+   "p": 0.678,
+   "pos": 0,
+   "neg": 0,
+   "pol": 0.0,
+   "pos_hits": [],
+   "neg_hits": []
+  },
+  {
+   "no": 58,
+   "title": "Aproximación al análisis de la interpretación de Lengua de Señas Argentina de términos de economía en el discurso político",
+   "venue": "Signo y Seña",
+   "year": 2024,
+   "period": "2021-2025",
+   "topic": 5,
+   "p": 0.896,
+   "pos": 0,
+   "neg": 0,
+   "pol": 0.0,
+   "pos_hits": [],
+   "neg_hits": []
+  },
+  {
+   "no": 59,
+   "title": "Introducción al dossier \"El habla visual: Treinta años de Lingüística de la Lengua de Señas Argentina en la revista Signo y Seña”",
+   "venue": "Signo y Seña",
+   "year": 2024,
+   "period": "2021-2025",
+   "topic": 5,
+   "p": 0.669,
+   "pos": 4,
+   "neg": 1,
+   "pol": 0.4286,
+   "pos_hits": [
+    "igualdad",
+    "reconoc",
+    "logro",
+    "reconocimiento"
+   ],
+   "neg_hits": [
+    "desigual"
+   ]
+  },
+  {
+   "no": 60,
+   "title": "Análisis de las ideologías lingüísticas a través de los preliminares: tres obras para observar las actitudes hacia el gallego, el vasco y el catalán en el siglo XIX",
+   "venue": "RAHL: Revista argentina de historiografía lingüística",
+   "year": 2023,
+   "period": "2021-2025",
+   "topic": 7,
+   "p": 0.87,
+   "pos": 1,
+   "neg": 0,
+   "pol": 0.3333,
+   "pos_hits": [
+    "vital"
+   ],
+   "neg_hits": []
+  },
+  {
+   "no": 61,
+   "title": "Notas sobre la configuración de un campo de estudio: el español del nordeste argentino",
+   "venue": "RAHL: Revista argentina de historiografía lingüística",
+   "year": 2023,
+   "period": "2021-2025",
+   "topic": 9,
+   "p": 0.575,
+   "pos": 6,
+   "neg": 0,
+   "pol": 0.75,
+   "pos_hits": [
+    "relevan",
+    "contribu",
+    "consolid",
+    "dialogo"
+   ],
+   "neg_hits": []
+  },
+  {
+   "no": 62,
+   "title": "RESEÑA. Klett, Estela. 2024. Enseñanza-aprendizaje de lenguas extranjeras. Temas clásicos desde nuevas perspectivas. Buenos Aires: Editores Asociados, 158 pp.",
+   "venue": "Quintú Quimün: revista de lingüística",
+   "year": 2024,
+   "period": "2021-2025",
+   "topic": 6,
+   "p": 0.523,
+   "pos": 1,
+   "neg": 1,
+   "pol": 0.0,
+   "pos_hits": [
+    "mejor"
+   ],
+   "neg_hits": [
+    "problem"
+   ]
+  },
+  {
+   "no": 63,
+   "title": "Cambio de código en el input bilingüe durante actividades de alfabetización infantil en qom y español",
+   "venue": "Revista Argentina de Ciencias del Comportamiento (RACC)",
+   "year": 2024,
+   "period": "2021-2025",
+   "topic": 8,
+   "p": 0.817,
+   "pos": 2,
+   "neg": 0,
+   "pol": 0.5,
+   "pos_hits": [
+    "inclus",
+    "ampli"
+   ],
+   "neg_hits": []
+  },
+  {
+   "no": 64,
+   "title": "Lenguas indígenas y variedades del español en relatos de migrantes",
+   "venue": "Traslaciones: Revista Latinoamericana de Lectura y Escritura",
+   "year": 2024,
+   "period": "2021-2025",
+   "topic": 9,
+   "p": 0.635,
+   "pos": 4,
+   "neg": 2,
+   "pol": 0.25,
+   "pos_hits": [
+    "reconoc",
+    "vital",
+    "valor"
+   ],
+   "neg_hits": [
+    "discrimin"
+   ]
+  },
+  {
+   "no": 65,
+   "title": "‘Crítica gramatical’ de Santa Olalla: una propuesta en torno a la enseñanza de la preposición en Revista de Educación",
+   "venue": "RAHL: Revista argentina de historiografía lingüística",
+   "year": 2024,
+   "period": "2021-2025",
+   "topic": 2,
+   "p": 0.339,
+   "pos": 2,
+   "neg": 5,
+   "pol": -0.3333,
+   "pos_hits": [
+    "fundamental"
+   ],
+   "neg_hits": [
+    "margin",
+    "critic"
+   ]
+  },
+  {
+   "no": 66,
+   "title": "Hacia una historiografía de la gramática de español como segunda lengua en Argentina",
+   "venue": "RAHL: Revista argentina de historiografía lingüística",
+   "year": 2024,
+   "period": "2021-2025",
+   "topic": 7,
+   "p": 0.335,
+   "pos": 3,
+   "neg": 0,
+   "pol": 0.6,
+   "pos_hits": [
+    "relevan",
+    "ampli"
+   ],
+   "neg_hits": []
+  }
+ ],
+ "by_topic": {
+  "1": {
+   "n": 4,
+   "mean": 0.14165000000000003,
+   "pos": 2,
+   "neg": 1,
+   "zero": 1,
+   "wpol": [
+    0.1565,
+    0.0329,
+    0.138,
+    -0.5847,
+    0.1413,
+    0.5139,
+    0.0062,
+    0.5236,
+    0.6886
+   ]
+  },
+  "2": {
+   "n": 11,
+   "mean": 0.09221818181818184,
+   "pos": 4,
+   "neg": 4,
+   "zero": 3,
+   "wpol": [
+    0.1194,
+    0.0894,
+    0.321,
+    0.1004,
+    -0.1322,
+    0.0177,
+    -0.0755,
+    0.0899,
+    0.3089
+   ]
+  },
+  "3": {
+   "n": 5,
+   "mean": 0.43620000000000003,
+   "pos": 4,
+   "neg": 1,
+   "zero": 0,
+   "wpol": [
+    0.4239,
+    -0.0055,
+    0.41,
+    0.4023,
+    0.5976,
+    0.6954,
+    0.6298,
+    0.6411,
+    0.6714
+   ]
+  },
+  "4": {
+   "n": 8,
+   "mean": 0.28571250000000004,
+   "pos": 5,
+   "neg": 0,
+   "zero": 3,
+   "wpol": [
+    0.3371,
+    0.3442,
+    0.3428,
+    0.2854,
+    0.3524,
+    0.3383,
+    0.0093,
+    0.3823,
+    0.2678
+   ]
+  },
+  "5": {
+   "n": 5,
+   "mean": 0.21903999999999998,
+   "pos": 3,
+   "neg": 0,
+   "zero": 2,
+   "wpol": [
+    0.1935,
+    0.2446,
+    0.3523,
+    0.3269,
+    0.1773,
+    0.3513,
+    0.2928,
+    0.3379,
+    0.1135
+   ]
+  },
+  "6": {
+   "n": 6,
+   "mean": 0.13888333333333333,
+   "pos": 2,
+   "neg": 0,
+   "zero": 4,
+   "wpol": [
+    0.0033,
+    0.1092,
+    0.0029,
+    0.1796,
+    0.026,
+    0.171,
+    0.4012,
+    0.053,
+    0.1082
+   ]
+  },
+  "7": {
+   "n": 11,
+   "mean": 0.2575727272727273,
+   "pos": 6,
+   "neg": 1,
+   "zero": 4,
+   "wpol": [
+    0.181,
+    0.2544,
+    0.1851,
+    0.3912,
+    0.1152,
+    0.209,
+    0.2594,
+    0.4999,
+    0.2841
+   ]
+  },
+  "8": {
+   "n": 6,
+   "mean": 0.30555,
+   "pos": 4,
+   "neg": 0,
+   "zero": 2,
+   "wpol": [
+    0.44,
+    0.4918,
+    0.0674,
+    0.3342,
+    0.2606,
+    0.282,
+    0.2512,
+    0.3094,
+    0.335
+   ]
+  },
+  "9": {
+   "n": 10,
+   "mean": 0.42374999999999996,
+   "pos": 8,
+   "neg": 1,
+   "zero": 1,
+   "wpol": [
+    0.3325,
+    0.4554,
+    0.1169,
+    0.5642,
+    0.6067,
+    0.5901,
+    0.612,
+    0.2918,
+    0.4258
+   ]
+  }
+ },
+ "by_year": {
+  "1999": {
+   "n": 1,
+   "mean": 0.0,
+   "pos": 0,
+   "neg": 0,
+   "zero": 1,
+   "wpol": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "2002": {
+   "n": 1,
+   "mean": 0.5,
+   "pos": 1,
+   "neg": 0,
+   "zero": 0,
+   "wpol": [
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5
+   ]
+  },
+  "2009": {
+   "n": 1,
+   "mean": 0.5,
+   "pos": 1,
+   "neg": 0,
+   "zero": 0,
+   "wpol": [
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5
+   ]
+  },
+  "2010": {
+   "n": 1,
+   "mean": 0.0,
+   "pos": 0,
+   "neg": 0,
+   "zero": 1,
+   "wpol": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "2011": {
+   "n": 1,
+   "mean": 0.0,
+   "pos": 0,
+   "neg": 0,
+   "zero": 1,
+   "wpol": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "2012": {
+   "n": 3,
+   "mean": 0.3333333333333333,
+   "pos": 2,
+   "neg": 0,
+   "zero": 1,
+   "wpol": [
+    0.4852,
+    0.4156,
+    0.3959,
+    0.496,
+    0.3299,
+    0.0082,
+    0.4935,
+    0.3974,
+    0.4846
+   ]
+  },
+  "2013": {
+   "n": 1,
+   "mean": 0.6667,
+   "pos": 1,
+   "neg": 0,
+   "zero": 0,
+   "wpol": [
+    0.6667,
+    0.6667,
+    0.6667,
+    0.6667,
+    0.6667,
+    0.6667,
+    0.6667,
+    0.6667,
+    0.6667
+   ]
+  },
+  "2014": {
+   "n": 4,
+   "mean": 0.46390000000000003,
+   "pos": 3,
+   "neg": 0,
+   "zero": 1,
+   "wpol": [
+    0.4408,
+    0.4784,
+    0.7715,
+    0.0057,
+    0.1051,
+    0.5063,
+    0.1006,
+    0.4786,
+    0.5637
+   ]
+  },
+  "2015": {
+   "n": 2,
+   "mean": 0.5,
+   "pos": 2,
+   "neg": 0,
+   "zero": 0,
+   "wpol": [
+    0.6587,
+    0.5227,
+    0.5227,
+    0.4353,
+    0.5952,
+    0.3457,
+    0.6544,
+    0.5227,
+    0.6626
+   ]
+  },
+  "2016": {
+   "n": 5,
+   "mean": 0.44286000000000003,
+   "pos": 4,
+   "neg": 0,
+   "zero": 1,
+   "wpol": [
+    0.4914,
+    0.1829,
+    0.6864,
+    0.5006,
+    0.3627,
+    0.6782,
+    0.4413,
+    0.2013,
+    0.4264
+   ]
+  },
+  "2017": {
+   "n": 5,
+   "mean": 0.12666,
+   "pos": 3,
+   "neg": 2,
+   "zero": 0,
+   "wpol": [
+    0.298,
+    0.2438,
+    0.1946,
+    0.222,
+    -0.0416,
+    -0.1786,
+    -0.005,
+    -0.1731,
+    -0.151
+   ]
+  },
+  "2018": {
+   "n": 6,
+   "mean": 0.3499833333333333,
+   "pos": 4,
+   "neg": 0,
+   "zero": 2,
+   "wpol": [
+    0.5569,
+    0.0177,
+    0.3691,
+    0.4241,
+    0.3327,
+    0.2722,
+    0.349,
+    0.2857,
+    0.3675
+   ]
+  },
+  "2019": {
+   "n": 5,
+   "mean": 0.15758,
+   "pos": 2,
+   "neg": 1,
+   "zero": 2,
+   "wpol": [
+    -0.0061,
+    -0.1406,
+    0.3824,
+    0.4695,
+    0.0262,
+    0.1292,
+    0.0365,
+    0.5405,
+    0.3283
+   ]
+  },
+  "2020": {
+   "n": 3,
+   "mean": 0.16666666666666666,
+   "pos": 1,
+   "neg": 0,
+   "zero": 2,
+   "wpol": [
+    0.1083,
+    0.2128,
+    0.1582,
+    0.1585,
+    0.0217,
+    0.0034,
+    0.0034,
+    0.4811,
+    0.1083
+   ]
+  },
+  "2021": {
+   "n": 6,
+   "mean": 0.048999999999999995,
+   "pos": 2,
+   "neg": 2,
+   "zero": 2,
+   "wpol": [
+    -0.1116,
+    -0.039,
+    -0.3617,
+    -0.2215,
+    0.2888,
+    0.2027,
+    0.409,
+    0.2023,
+    0.279
+   ]
+  },
+  "2022": {
+   "n": 1,
+   "mean": 0.0,
+   "pos": 0,
+   "neg": 0,
+   "zero": 1,
+   "wpol": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "2023": {
+   "n": 5,
+   "mean": 0.51666,
+   "pos": 5,
+   "neg": 0,
+   "zero": 0,
+   "wpol": [
+    0.5742,
+    0.6428,
+    0.599,
+    0.4019,
+    0.435,
+    0.6565,
+    0.4236,
+    0.4969,
+    0.6753
+   ]
+  },
+  "2024": {
+   "n": 9,
+   "mean": 0.1605888888888889,
+   "pos": 4,
+   "neg": 1,
+   "zero": 4,
+   "wpol": [
+    0.1419,
+    -0.0498,
+    0.0706,
+    0.1298,
+    0.1253,
+    0.2037,
+    0.1467,
+    0.498,
+    0.1346
+   ]
+  },
+  "2025": {
+   "n": 3,
+   "mean": 0.17143333333333333,
+   "pos": 1,
+   "neg": 1,
+   "zero": 1,
+   "wpol": [
+    0.001,
+    0.1863,
+    -0.1629,
+    0.0946,
+    -0.0826,
+    0.1002,
+    0.0142,
+    0.0032,
+    0.7057
+   ]
+  },
+  "2026": {
+   "n": 3,
+   "mean": 0.09523333333333335,
+   "pos": 2,
+   "neg": 1,
+   "zero": 0,
+   "wpol": [
+    0.2818,
+    0.1152,
+    -0.0007,
+    0.3114,
+    0.0842,
+    0.325,
+    0.3956,
+    0.0842,
+    0.2416
+   ]
+  }
+ },
+ "by_venue": {
+  "RAHL: Revista argentina de historiografía lingüística": {
+   "n": 15,
+   "mean": 0.2966666666666667,
+   "pos": 9,
+   "neg": 1,
+   "zero": 5,
+   "wpol": [
+    0.289,
+    0.268,
+    0.4225,
+    0.1726,
+    0.1598,
+    0.2375,
+    0.2708,
+    0.4875,
+    0.5215
+   ]
+  },
+  "Anclajes": {
+   "n": 5,
+   "mean": 0.06,
+   "pos": 1,
+   "neg": 1,
+   "zero": 3,
+   "wpol": [
+    0.3963,
+    0.009,
+    -0.0251,
+    0.0108,
+    -0.097,
+    -0.0631,
+    0.0018,
+    0.2264,
+    0.0096
+   ]
+  },
+  "Traslaciones: Revista Latinoamericana de Lectura y Escritura": {
+   "n": 10,
+   "mean": 0.30249000000000004,
+   "pos": 6,
+   "neg": 1,
+   "zero": 3,
+   "wpol": [
+    0.2573,
+    0.5012,
+    0.1802,
+    0.4799,
+    0.3068,
+    0.4718,
+    0.3371,
+    0.2375,
+    0.2941
+   ]
+  },
+  "Entramados: educación y sociedad": {
+   "n": 1,
+   "mean": 0.2857,
+   "pos": 1,
+   "neg": 0,
+   "zero": 0,
+   "wpol": [
+    0.2857,
+    0.2857,
+    0.2857,
+    0.2857,
+    0.2857,
+    0.2857,
+    0.2857,
+    0.2857,
+    0.2857
+   ]
+  },
+  "Revista Argentina de Educación Superior (RAES)": {
+   "n": 2,
+   "mean": 0.0,
+   "pos": 1,
+   "neg": 1,
+   "zero": 0,
+   "wpol": [
+    -0.0278,
+    -0.4597,
+    -0.0307,
+    0.3645,
+    -0.0278,
+    0.4064,
+    0.4064,
+    -0.0278,
+    -0.0278
+   ]
+  },
+  "Signos ELE: Revista de Español como Lengua Extranjera": {
+   "n": 3,
+   "mean": 0.4444333333333333,
+   "pos": 3,
+   "neg": 0,
+   "zero": 0,
+   "wpol": [
+    0.497,
+    0.4985,
+    0.4988,
+    0.4246,
+    0.4659,
+    0.4249,
+    0.4499,
+    0.4801,
+    0.4974
+   ]
+  },
+  "Signo y Seña": {
+   "n": 8,
+   "mean": 0.053575,
+   "pos": 2,
+   "neg": 1,
+   "zero": 5,
+   "wpol": [
+    -0.1435,
+    -0.1375,
+    0.1077,
+    0.0332,
+    0.1611,
+    0.079,
+    0.0865,
+    0.1833,
+    0.0277
+   ]
+  },
+  "Gramma": {
+   "n": 1,
+   "mean": 0.5,
+   "pos": 1,
+   "neg": 0,
+   "zero": 0,
+   "wpol": [
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5
+   ]
+  },
+  "Educación, Lenguaje y Sociedad": {
+   "n": 2,
+   "mean": 0.39390000000000003,
+   "pos": 2,
+   "neg": 0,
+   "zero": 0,
+   "wpol": [
+    0.354,
+    0.4534,
+    0.3347,
+    0.449,
+    0.3338,
+    0.3737,
+    0.449,
+    0.4363,
+    0.4542
+   ]
+  },
+  "Pilquen - Sección Psicopedagogía": {
+   "n": 1,
+   "mean": 0.5556,
+   "pos": 1,
+   "neg": 0,
+   "zero": 0,
+   "wpol": [
+    0.5556,
+    0.5556,
+    0.5556,
+    0.5556,
+    0.5556,
+    0.5556,
+    0.5556,
+    0.5556,
+    0.5556
+   ]
+  },
+  "Revista Latinoamericana de Educación Comparada (RELEC)": {
+   "n": 1,
+   "mean": 0.5,
+   "pos": 1,
+   "neg": 0,
+   "zero": 0,
+   "wpol": [
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5
+   ]
+  },
+  "Cuadernos del CILHA": {
+   "n": 1,
+   "mean": -0.3333,
+   "pos": 0,
+   "neg": 1,
+   "zero": 0,
+   "wpol": [
+    -0.3333,
+    -0.3333,
+    -0.3333,
+    -0.3333,
+    -0.3333,
+    -0.3333,
+    -0.3333,
+    -0.3333,
+    -0.3333
+   ]
+  },
+  "Integración y Conocimiento": {
+   "n": 4,
+   "mean": 0.7119249999999999,
+   "pos": 4,
+   "neg": 0,
+   "zero": 0,
+   "wpol": [
+    0.6705,
+    0.7725,
+    0.7297,
+    0.6745,
+    0.6766,
+    0.7079,
+    0.6714,
+    0.7125,
+    0.6795
+   ]
+  },
+  "Argonautas": {
+   "n": 3,
+   "mean": 0.2222333333333333,
+   "pos": 1,
+   "neg": 0,
+   "zero": 2,
+   "wpol": [
+    0.0032,
+    0.0349,
+    0.2978,
+    0.2691,
+    0.0273,
+    0.1292,
+    0.1482,
+    0.5681,
+    0.1482
+   ]
+  },
+  "Masquedós: Revista de Extensión Universitaria": {
+   "n": 1,
+   "mean": -0.6,
+   "pos": 0,
+   "neg": 1,
+   "zero": 0,
+   "wpol": [
+    -0.6,
+    -0.6,
+    -0.6,
+    -0.6,
+    -0.6,
+    -0.6,
+    -0.6,
+    -0.6,
+    -0.6
+   ]
+  },
+  "Quintú Quimün: revista de lingüística": {
+   "n": 7,
+   "mean": 0.23332857142857139,
+   "pos": 4,
+   "neg": 1,
+   "zero": 2,
+   "wpol": [
+    0.3616,
+    0.0089,
+    0.1142,
+    0.2809,
+    0.235,
+    0.1078,
+    -0.0632,
+    0.3282,
+    0.5773
+   ]
+  },
+  "Revista Argentina de Ciencias del Comportamiento (RACC)": {
+   "n": 1,
+   "mean": 0.5,
+   "pos": 1,
+   "neg": 0,
+   "zero": 0,
+   "wpol": [
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5
+   ]
+  }
+ },
+ "year_pol": {
+  "1999": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "2002": [
+   0.5,
+   0.5,
+   0.5,
+   0.5,
+   0.5,
+   0.5,
+   0.5,
+   0.5,
+   0.5
+  ],
+  "2009": [
+   0.5,
+   0.5,
+   0.5,
+   0.5,
+   0.5,
+   0.5,
+   0.5,
+   0.5,
+   0.5
+  ],
+  "2010": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "2011": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "2012": [
+   0.4852,
+   0.4156,
+   0.3959,
+   0.496,
+   0.3299,
+   0.0082,
+   0.4935,
+   0.3974,
+   0.4846
+  ],
+  "2013": [
+   0.6667,
+   0.6667,
+   0.6667,
+   0.6667,
+   0.6667,
+   0.6667,
+   0.6667,
+   0.6667,
+   0.6667
+  ],
+  "2014": [
+   0.4408,
+   0.4784,
+   0.7715,
+   0.0057,
+   0.1051,
+   0.5063,
+   0.1006,
+   0.4786,
+   0.5637
+  ],
+  "2015": [
+   0.6587,
+   0.5227,
+   0.5227,
+   0.4353,
+   0.5952,
+   0.3457,
+   0.6544,
+   0.5227,
+   0.6626
+  ],
+  "2016": [
+   0.4914,
+   0.1829,
+   0.6864,
+   0.5006,
+   0.3627,
+   0.6782,
+   0.4413,
+   0.2013,
+   0.4264
+  ],
+  "2017": [
+   0.298,
+   0.2438,
+   0.1946,
+   0.222,
+   -0.0416,
+   -0.1786,
+   -0.005,
+   -0.1731,
+   -0.151
+  ],
+  "2018": [
+   0.5569,
+   0.0177,
+   0.3691,
+   0.4241,
+   0.3327,
+   0.2722,
+   0.349,
+   0.2857,
+   0.3675
+  ],
+  "2019": [
+   -0.0061,
+   -0.1406,
+   0.3824,
+   0.4695,
+   0.0262,
+   0.1292,
+   0.0365,
+   0.5405,
+   0.3283
+  ],
+  "2020": [
+   0.1083,
+   0.2128,
+   0.1582,
+   0.1585,
+   0.0217,
+   0.0034,
+   0.0034,
+   0.4811,
+   0.1083
+  ],
+  "2021": [
+   -0.1116,
+   -0.039,
+   -0.3617,
+   -0.2215,
+   0.2888,
+   0.2027,
+   0.409,
+   0.2023,
+   0.279
+  ],
+  "2022": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "2023": [
+   0.5742,
+   0.6428,
+   0.599,
+   0.4019,
+   0.435,
+   0.6565,
+   0.4236,
+   0.4969,
+   0.6753
+  ],
+  "2024": [
+   0.1419,
+   -0.0498,
+   0.0706,
+   0.1298,
+   0.1253,
+   0.2037,
+   0.1467,
+   0.498,
+   0.1346
+  ],
+  "2025": [
+   0.001,
+   0.1863,
+   -0.1629,
+   0.0946,
+   -0.0826,
+   0.1002,
+   0.0142,
+   0.0032,
+   0.7057
+  ],
+  "2026": [
+   0.2818,
+   0.1152,
+   -0.0007,
+   0.3114,
+   0.0842,
+   0.325,
+   0.3956,
+   0.0842,
+   0.2416
+  ]
+ }
+}
