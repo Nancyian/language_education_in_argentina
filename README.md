@@ -1,2 +1,2 @@
 # language_education_in_argentina
-A reproducible pipeline for studying how Argentine language policy is produced, legitimated and contested across official, expert and media discourse — LDA, temporal and polarity analyses.
+A reproducible computational pipeline for studying how language policy in Argentina is produced, legitimated and contested across three discursive fields: institutional (official)​, academic (expert)​ and journalistic (media)​. The repository holds the harvesting and screening code, the bibliographic metadata of the collected documents, the topic-model outputs, the figures and the analytical reports. The official and expert fields have been collected and modelled; the media field is in preparation.
