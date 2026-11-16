@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use these corpora or this pipeline, please cite it as below."
+title: "Language Policy Discourse in Argentina: Official, Expert and Media Fields"
+abstract: >-
+  A reproducible computational pipeline for studying how language policy in Argentina is
+  produced, legitimated and contested across institutional, academic and journalistic fields.
+  Includes corpus construction code, bibliographic metadata, LDA topic models, temporal and
+  polarity analyses, and analytical reports. The institutional and expert fields are complete;
+  the media field is in preparation.
+authors:
+  - family-names: "Nancyian"
+    given-names: ""
+    affiliation: ""
+version: "1.0.0"
+date-released: "2026-11-16"
+license: MIT
+keywords:
+  - language policy
+  - Argentina
+  - corpus linguistics
+  - discourse analysis
+  - LDA
+  - topic modelling
+  - sentiment analysis
+type: software

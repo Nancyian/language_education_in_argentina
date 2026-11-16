@@ -1,0 +1,37 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
+# Working artefacts (not part of the archive)
+*.part
+*.tmp
+*.log
+_*.pdf
+_*.docx
+*_prev.pdf
+*_preview.pdf
+cache/
+*_profile/
+
+# Third-party full text — never commit
+*.pdf
+!docs/*.pdf
+work/ft_*/
+raw/
+corpus_fulltext/
+*_merged_by_source.xlsx
+*_corpus.csv
